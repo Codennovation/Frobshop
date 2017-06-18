@@ -3,9 +3,9 @@ E-commerce wesite for learning purpose
 
 ## Requirements
 Pip install following packages
-django-Oscar
-django-compressor
-django-widget-tweaks 
+- django-Oscar
+- django-compressor
+- django-widget-tweaks 
 
 ## Installation
 ```
